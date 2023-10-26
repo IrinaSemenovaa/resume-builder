@@ -1,0 +1,10 @@
+{
+  "name": "resume-builder",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-resume": "cd client && set \"PUBLIC_URL=./\" npx react-scripts build && cd .. && cd server && node index.js"
+  },
+  "author": "Iryna Semenova",
+  "license": "MIT"
+}
