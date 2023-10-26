@@ -1,0 +1,59 @@
+{
+  "name": "Iryna Semenova",
+  "title": "Frontend developer",
+  "summary": "",
+  "experience": [
+    {
+      "position": "",
+      "company": "",
+      "date": "",
+      "description": ""
+    },
+    {
+      "position": "",
+      "company": "",
+      "date": "",
+      "description": ""
+    }
+  ],
+  "education": {
+    "degree": "",
+    "univercity": "",
+    "date": ""
+  },
+  "contacts": {
+    "phone": "",
+    "mail": "",
+    "Linkedin": "",
+    "Github": ""
+  },
+  "technologies": [
+    "JavaScript",
+    "React",
+    "HTML5",
+    "CSS3",
+    "SASS/SCSS",
+    "Redux",
+    "Next.js",
+    "REST API",
+    "JSON",
+    "Webpack",
+    "Git",
+    "MongoDB"
+  ],
+  "courses": [
+    {
+      "company": "",
+      "degree": "",
+      "link": "",
+      "date": ""
+    }
+  ],
+  "petProject": [
+    {
+      "name": "",
+      "technologies": [],
+      "description": ""
+    }
+  ]
+}
